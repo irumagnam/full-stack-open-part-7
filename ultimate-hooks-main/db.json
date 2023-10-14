@@ -1,0 +1,45 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "content": "React is very difficult",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "Java is not that hard",
+      "important": true,
+      "id": 5
+    },
+    {
+      "content": "this is becoming quiet interesting!",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Arto Hellas",
+      "number": "040-7890123"
+    },
+    {
+      "name": "Albert Einstein",
+      "number": "00-00000000",
+      "id": 3
+    }
+  ]
+}
