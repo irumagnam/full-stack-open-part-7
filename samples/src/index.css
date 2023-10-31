@@ -67,3 +67,37 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.label {
+  color:#1a1a1a;
+  margin-bottom: 10px;
+  padding: 0px;
+  min-width: 15px;
+}
+.result-W {
+  background-color: #d7efe6;
+}
+.result-L {
+  background-color: #fbe0e0;
+}
+.result-T {
+  background-color: #fdfadf;
+}
+.result-N {
+  background-color: #eae0f9;
+}
+.probability {
+  background-color: #bfe1f1;
+}
+.floater {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px;
+  height: fit-content;
+  background-color: #f4f3e9;
+  border: 1px solid #cccccc;
+  padding: 10px;
+  font-size: 12px;
+  color:#1a1a1a;
+}
